@@ -1,4 +1,4 @@
-# AWS-Dat-Quality-Control-Thilina-UCW
+# AWS-Data-Quality-Control-Thilina-UCW
 
 **Project Description:**
 
